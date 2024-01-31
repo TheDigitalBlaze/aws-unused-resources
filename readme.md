@@ -1,6 +1,6 @@
 ## Introduction
 
-This script will identify the following AWS resources that have not been used in the past 14 days:
+This script will identify the following AWS resources that have not been used in the past 14 days and outputs a number of CSV files that contain references to the unused resources:
 * Elastic IPs
 * EBS volumes
 * EIPs
