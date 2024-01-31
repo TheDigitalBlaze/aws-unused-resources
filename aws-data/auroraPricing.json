@@ -1,0 +1,5158 @@
+{
+    "us-east-2": {
+        "db.r3.2xlarge": {
+            "instancePrice": 1.16,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r3.large": {
+            "instancePrice": 0.29,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r3.4xlarge": {
+            "instancePrice": 2.32,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r3.xlarge": {
+            "instancePrice": 0.58,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r3.8xlarge": {
+            "instancePrice": 4.64,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.16xlarge": {
+            "instancePrice": 9.28,
+            "vcpu": 64,
+            "memory": 488.0
+        },
+        "db.r4.2xlarge": {
+            "instancePrice": 1.16,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r4.4xlarge": {
+            "instancePrice": 2.32,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r4.8xlarge": {
+            "instancePrice": 4.64,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.large": {
+            "instancePrice": 0.29,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r4.xlarge": {
+            "instancePrice": 0.58,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r5.12xlarge": {
+            "instancePrice": 9.048,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 12.064,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 18.096,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.508,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.016,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 6.032,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.377,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.754,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 8.098,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 10.798,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.349,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 2.699,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 5.399,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.338,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.675,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 9.048,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 12.064,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 18.096,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.508,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 24.128,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.016,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 6.032,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.377,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.754,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r7g.12xlarge": {
+            "instancePrice": 8.623,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r7g.16xlarge": {
+            "instancePrice": 11.497,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r7g.2xlarge": {
+            "instancePrice": 1.437,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r7g.4xlarge": {
+            "instancePrice": 2.874,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r7g.8xlarge": {
+            "instancePrice": 5.749,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r7g.large": {
+            "instancePrice": 0.359,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r7g.xlarge": {
+            "instancePrice": 0.719,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t2.medium": {
+            "instancePrice": 0.082,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t2.small": {
+            "instancePrice": 0.041,
+            "vcpu": 1,
+            "memory": 2.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.213,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.107,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.053,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.19,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.095,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.x2g.12xlarge": {
+            "instancePrice": 11.762,
+            "vcpu": 48,
+            "memory": 768.0
+        },
+        "db.x2g.16xlarge": {
+            "instancePrice": 15.683,
+            "vcpu": 64,
+            "memory": 1024.0
+        },
+        "db.x2g.2xlarge": {
+            "instancePrice": 1.96,
+            "vcpu": 8,
+            "memory": 128.0
+        },
+        "db.x2g.4xlarge": {
+            "instancePrice": 3.921,
+            "vcpu": 16,
+            "memory": 256.0
+        },
+        "db.x2g.8xlarge": {
+            "instancePrice": 7.842,
+            "vcpu": 32,
+            "memory": 512.0
+        },
+        "db.x2g.large": {
+            "instancePrice": 0.49,
+            "vcpu": 2,
+            "memory": 32.0
+        },
+        "db.x2g.xlarge": {
+            "instancePrice": 0.98,
+            "vcpu": 4,
+            "memory": 64.0
+        }
+    },
+    "us-east-1": {
+        "db.r3.2xlarge": {
+            "instancePrice": 1.16,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r3.large": {
+            "instancePrice": 0.29,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r3.4xlarge": {
+            "instancePrice": 2.32,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r3.xlarge": {
+            "instancePrice": 0.58,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r3.8xlarge": {
+            "instancePrice": 4.64,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.16xlarge": {
+            "instancePrice": 9.28,
+            "vcpu": 64,
+            "memory": 488.0
+        },
+        "db.r4.2xlarge": {
+            "instancePrice": 1.16,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r4.4xlarge": {
+            "instancePrice": 2.32,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r4.8xlarge": {
+            "instancePrice": 4.64,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.large": {
+            "instancePrice": 0.29,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r4.xlarge": {
+            "instancePrice": 0.58,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r5.12xlarge": {
+            "instancePrice": 9.048,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 12.064,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 18.096,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.508,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.016,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 6.032,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.377,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.754,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 8.098,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 10.798,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.349,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 2.699,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 5.399,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.338,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.675,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 9.048,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 12.064,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 18.096,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.508,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 24.128,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.016,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 6.032,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.377,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.754,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r7g.12xlarge": {
+            "instancePrice": 8.623,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r7g.16xlarge": {
+            "instancePrice": 11.497,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r7g.2xlarge": {
+            "instancePrice": 1.437,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r7g.4xlarge": {
+            "instancePrice": 2.874,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r7g.8xlarge": {
+            "instancePrice": 5.749,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r7g.large": {
+            "instancePrice": 0.359,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r7g.xlarge": {
+            "instancePrice": 0.719,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t2.medium": {
+            "instancePrice": 0.082,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t2.small": {
+            "instancePrice": 0.041,
+            "vcpu": 1,
+            "memory": 2.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.213,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.107,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.053,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.19,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.095,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.x2g.12xlarge": {
+            "instancePrice": 11.762,
+            "vcpu": 48,
+            "memory": 768.0
+        },
+        "db.x2g.16xlarge": {
+            "instancePrice": 15.683,
+            "vcpu": 64,
+            "memory": 1024.0
+        },
+        "db.x2g.2xlarge": {
+            "instancePrice": 1.96,
+            "vcpu": 8,
+            "memory": 128.0
+        },
+        "db.x2g.4xlarge": {
+            "instancePrice": 3.921,
+            "vcpu": 16,
+            "memory": 256.0
+        },
+        "db.x2g.8xlarge": {
+            "instancePrice": 7.842,
+            "vcpu": 32,
+            "memory": 512.0
+        },
+        "db.x2g.large": {
+            "instancePrice": 0.49,
+            "vcpu": 2,
+            "memory": 32.0
+        },
+        "db.x2g.xlarge": {
+            "instancePrice": 0.98,
+            "vcpu": 4,
+            "memory": 64.0
+        }
+    },
+    "us-west-1": {
+        "db.r3.2xlarge": {
+            "instancePrice": 1.28,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r3.large": {
+            "instancePrice": 0.32,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r3.4xlarge": {
+            "instancePrice": 2.56,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r3.xlarge": {
+            "instancePrice": 0.64,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r3.8xlarge": {
+            "instancePrice": 5.12,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.16xlarge": {
+            "instancePrice": 10.24,
+            "vcpu": 64,
+            "memory": 488.0
+        },
+        "db.r4.2xlarge": {
+            "instancePrice": 1.28,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r4.4xlarge": {
+            "instancePrice": 2.56,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r4.8xlarge": {
+            "instancePrice": 5.12,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.large": {
+            "instancePrice": 0.32,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r4.xlarge": {
+            "instancePrice": 0.64,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r5.12xlarge": {
+            "instancePrice": 9.984,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 13.312,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 19.968,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.664,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.328,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 6.656,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.416,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.832,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 8.936,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 11.915,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.49,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 2.978,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 5.957,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.372,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.745,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 9.984,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 13.312,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 19.968,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.664,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 26.624,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.328,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 6.656,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.416,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.832,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t2.medium": {
+            "instancePrice": 0.106,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t2.small": {
+            "instancePrice": 0.053,
+            "vcpu": 1,
+            "memory": 2.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.276,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.138,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.069,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.247,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.124,
+            "vcpu": 2,
+            "memory": 4.0
+        }
+    },
+    "us-west-2": {
+        "db.r3.2xlarge": {
+            "instancePrice": 1.16,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r3.large": {
+            "instancePrice": 0.29,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r3.4xlarge": {
+            "instancePrice": 2.32,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r3.xlarge": {
+            "instancePrice": 0.58,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r3.8xlarge": {
+            "instancePrice": 4.64,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.16xlarge": {
+            "instancePrice": 9.28,
+            "vcpu": 64,
+            "memory": 488.0
+        },
+        "db.r4.2xlarge": {
+            "instancePrice": 1.16,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r4.4xlarge": {
+            "instancePrice": 2.32,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r4.8xlarge": {
+            "instancePrice": 4.64,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.large": {
+            "instancePrice": 0.29,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r4.xlarge": {
+            "instancePrice": 0.58,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r5.12xlarge": {
+            "instancePrice": 9.048,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 12.064,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 18.096,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.508,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.016,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 6.032,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.377,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.754,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 8.098,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 10.798,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.349,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 2.699,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 5.399,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.338,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.675,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 9.048,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 12.064,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 18.096,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.508,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 24.128,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.016,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 6.032,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.377,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.754,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r7g.12xlarge": {
+            "instancePrice": 8.623,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r7g.16xlarge": {
+            "instancePrice": 11.497,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r7g.2xlarge": {
+            "instancePrice": 1.437,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r7g.4xlarge": {
+            "instancePrice": 2.874,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r7g.8xlarge": {
+            "instancePrice": 5.749,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r7g.large": {
+            "instancePrice": 0.359,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r7g.xlarge": {
+            "instancePrice": 0.719,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t2.medium": {
+            "instancePrice": 0.082,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t2.small": {
+            "instancePrice": 0.041,
+            "vcpu": 1,
+            "memory": 2.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.213,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.107,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.053,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.19,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.095,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.x2g.12xlarge": {
+            "instancePrice": 11.762,
+            "vcpu": 48,
+            "memory": 768.0
+        },
+        "db.x2g.16xlarge": {
+            "instancePrice": 15.683,
+            "vcpu": 64,
+            "memory": 1024.0
+        },
+        "db.x2g.2xlarge": {
+            "instancePrice": 1.96,
+            "vcpu": 8,
+            "memory": 128.0
+        },
+        "db.x2g.4xlarge": {
+            "instancePrice": 3.921,
+            "vcpu": 16,
+            "memory": 256.0
+        },
+        "db.x2g.8xlarge": {
+            "instancePrice": 7.842,
+            "vcpu": 32,
+            "memory": 512.0
+        },
+        "db.x2g.large": {
+            "instancePrice": 0.49,
+            "vcpu": 2,
+            "memory": 32.0
+        },
+        "db.x2g.xlarge": {
+            "instancePrice": 0.98,
+            "vcpu": 4,
+            "memory": 64.0
+        }
+    },
+    "af-south-1": {
+        "db.r5.12xlarge": {
+            "instancePrice": 11.887,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 15.85,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 23.774,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.981,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.962,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 7.925,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.495,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.991,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.273,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.137,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.068,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 11.887,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 15.85,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 23.774,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.981,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 31.699,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.962,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 7.925,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.495,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.991,
+            "vcpu": 4,
+            "memory": 32.0
+        }
+    },
+    "ap-east-1": {
+        "db.r5.12xlarge": {
+            "instancePrice": 12.012,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 16.016,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 24.024,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 2.002,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 4.004,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 8.008,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.501,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 1.001,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 10.751,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 14.334,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.791,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 3.584,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 7.167,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.449,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.896,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 12.012,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 16.016,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 24.024,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 2.002,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 32.032,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 4.004,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 8.008,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.501,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 1.001,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.361,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.181,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.09,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.325,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.163,
+            "vcpu": 2,
+            "memory": 4.0
+        }
+    },
+    "ap-south-2": {
+        "db.r5.12xlarge": {
+            "instancePrice": 10.296,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 13.728,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 20.592,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.716,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.432,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 6.864,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.429,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.858,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.307,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.153,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.077,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 9.204,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 12.272,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.534,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 3.068,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 6.136,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.384,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.767,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 10.296,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 13.728,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 20.592,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.716,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 27.456,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.432,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 6.864,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.429,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.858,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.242,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.121,
+            "vcpu": 2,
+            "memory": 4.0
+        }
+    },
+    "ap-southeast-3": {
+        "db.r5.12xlarge": {
+            "instancePrice": 10.92,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 14.56,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 21.84,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.82,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.64,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 7.28,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.455,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.91,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.328,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.164,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 9.773,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 13.031,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.629,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 3.258,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 6.516,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.407,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.815,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 10.92,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 14.56,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 21.84,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.82,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 29.12,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.64,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 7.28,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.455,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.91,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.082,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.298,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.148,
+            "vcpu": 2,
+            "memory": 4.0
+        }
+    },
+    "ap-southeast-4": {
+        "db.r5.12xlarge": {
+            "instancePrice": 10.92,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 14.56,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 21.84,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.82,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.64,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 7.28,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.455,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.91,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.325,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.163,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.082,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 9.773,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 13.031,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.629,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 3.258,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 6.516,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.407,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.815,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 10.92,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 14.56,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 21.84,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.82,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 29.12,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.64,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 7.28,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.455,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.91,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.295,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.147,
+            "vcpu": 2,
+            "memory": 4.0
+        }
+    },
+    "ap-south-1": {
+        "db.r3.2xlarge": {
+            "instancePrice": 1.32,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r3.large": {
+            "instancePrice": 0.33,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r3.4xlarge": {
+            "instancePrice": 2.64,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r3.xlarge": {
+            "instancePrice": 0.66,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r3.8xlarge": {
+            "instancePrice": 5.28,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.16xlarge": {
+            "instancePrice": 10.56,
+            "vcpu": 64,
+            "memory": 488.0
+        },
+        "db.r4.2xlarge": {
+            "instancePrice": 1.32,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r4.4xlarge": {
+            "instancePrice": 2.64,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r4.8xlarge": {
+            "instancePrice": 5.28,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.large": {
+            "instancePrice": 0.33,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r4.xlarge": {
+            "instancePrice": 0.66,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r5.12xlarge": {
+            "instancePrice": 10.296,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 13.728,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 20.592,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.716,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.432,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 6.864,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.429,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.858,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 9.214,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 12.286,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.535,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 3.072,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 6.144,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.384,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.768,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 10.296,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 13.728,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 20.592,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.716,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 27.456,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.432,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 6.864,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.429,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.858,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t2.medium": {
+            "instancePrice": 0.118,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t2.small": {
+            "instancePrice": 0.059,
+            "vcpu": 1,
+            "memory": 2.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.307,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.153,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.077,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.242,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.121,
+            "vcpu": 2,
+            "memory": 4.0
+        }
+    },
+    "ap-northeast-3": {
+        "db.r5.12xlarge": {
+            "instancePrice": 8.4,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 11.2,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 16.8,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.4,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 2.8,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 5.6,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.35,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.7,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.25,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.125,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.063,
+            "vcpu": 2,
+            "memory": 2.0
+        }
+    },
+    "ap-northeast-2": {
+        "db.r3.2xlarge": {
+            "instancePrice": 1.4,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r3.large": {
+            "instancePrice": 0.35,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r3.4xlarge": {
+            "instancePrice": 2.8,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r3.xlarge": {
+            "instancePrice": 0.7,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r3.8xlarge": {
+            "instancePrice": 5.6,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.16xlarge": {
+            "instancePrice": 11.2,
+            "vcpu": 64,
+            "memory": 488.0
+        },
+        "db.r4.2xlarge": {
+            "instancePrice": 1.4,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r4.4xlarge": {
+            "instancePrice": 2.8,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r4.8xlarge": {
+            "instancePrice": 5.6,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.large": {
+            "instancePrice": 0.35,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r4.xlarge": {
+            "instancePrice": 0.7,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r5.12xlarge": {
+            "instancePrice": 10.92,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 14.56,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 21.84,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.82,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.64,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 7.28,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.455,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.91,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 9.773,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 13.031,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.629,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 3.258,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 6.516,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.407,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.815,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 10.92,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 14.56,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 21.84,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.82,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 29.12,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.64,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 7.28,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.455,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.91,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t2.medium": {
+            "instancePrice": 0.125,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t2.small": {
+            "instancePrice": 0.063,
+            "vcpu": 1,
+            "memory": 2.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.325,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.163,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.082,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.295,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.147,
+            "vcpu": 2,
+            "memory": 4.0
+        }
+    },
+    "ap-southeast-1": {
+        "db.r3.2xlarge": {
+            "instancePrice": 1.4,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r3.large": {
+            "instancePrice": 0.35,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r3.4xlarge": {
+            "instancePrice": 2.8,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r3.xlarge": {
+            "instancePrice": 0.7,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r3.8xlarge": {
+            "instancePrice": 5.6,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.16xlarge": {
+            "instancePrice": 11.2,
+            "vcpu": 64,
+            "memory": 488.0
+        },
+        "db.r4.2xlarge": {
+            "instancePrice": 1.4,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r4.4xlarge": {
+            "instancePrice": 2.8,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r4.8xlarge": {
+            "instancePrice": 5.6,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.large": {
+            "instancePrice": 0.35,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r4.xlarge": {
+            "instancePrice": 0.7,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r5.12xlarge": {
+            "instancePrice": 10.92,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 14.56,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 21.84,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.82,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.64,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 7.28,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.455,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.91,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 9.773,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 13.031,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.629,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 3.258,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 6.516,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.407,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.815,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 10.92,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 14.56,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 21.84,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.82,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 29.12,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.64,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 7.28,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.455,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.91,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t2.medium": {
+            "instancePrice": 0.126,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t2.small": {
+            "instancePrice": 0.063,
+            "vcpu": 1,
+            "memory": 2.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.328,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.164,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.082,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.298,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.148,
+            "vcpu": 2,
+            "memory": 4.0
+        }
+    },
+    "ap-southeast-2": {
+        "db.r3.2xlarge": {
+            "instancePrice": 1.4,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r3.large": {
+            "instancePrice": 0.35,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r3.4xlarge": {
+            "instancePrice": 2.8,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r3.xlarge": {
+            "instancePrice": 0.7,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r3.8xlarge": {
+            "instancePrice": 5.6,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.16xlarge": {
+            "instancePrice": 11.2,
+            "vcpu": 64,
+            "memory": 488.0
+        },
+        "db.r4.2xlarge": {
+            "instancePrice": 1.4,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r4.4xlarge": {
+            "instancePrice": 2.8,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r4.8xlarge": {
+            "instancePrice": 5.6,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.large": {
+            "instancePrice": 0.35,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r4.xlarge": {
+            "instancePrice": 0.7,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r5.12xlarge": {
+            "instancePrice": 10.92,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 14.56,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 21.84,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.82,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.64,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 7.28,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.455,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.91,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 9.773,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 13.031,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.629,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 3.258,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 6.516,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.407,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.815,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 10.92,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 14.56,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 21.84,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.82,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 29.12,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.64,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 7.28,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.455,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.91,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t2.medium": {
+            "instancePrice": 0.125,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t2.small": {
+            "instancePrice": 0.063,
+            "vcpu": 1,
+            "memory": 2.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.325,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.163,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.082,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.295,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.147,
+            "vcpu": 2,
+            "memory": 4.0
+        }
+    },
+    "ap-northeast-1": {
+        "db.r3.2xlarge": {
+            "instancePrice": 1.4,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r3.large": {
+            "instancePrice": 0.35,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r3.4xlarge": {
+            "instancePrice": 2.8,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r3.xlarge": {
+            "instancePrice": 0.7,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r3.8xlarge": {
+            "instancePrice": 5.6,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.16xlarge": {
+            "instancePrice": 11.2,
+            "vcpu": 64,
+            "memory": 488.0
+        },
+        "db.r4.2xlarge": {
+            "instancePrice": 1.4,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r4.4xlarge": {
+            "instancePrice": 2.8,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r4.8xlarge": {
+            "instancePrice": 5.6,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.large": {
+            "instancePrice": 0.35,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r4.xlarge": {
+            "instancePrice": 0.7,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r5.12xlarge": {
+            "instancePrice": 10.92,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 14.56,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 21.84,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.82,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.64,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 7.28,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.455,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.91,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 9.773,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 13.031,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.629,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 3.258,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 6.516,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.407,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.815,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 10.92,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 14.56,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 21.84,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.82,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 29.12,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.64,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 7.28,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.455,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.91,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t2.medium": {
+            "instancePrice": 0.125,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t2.small": {
+            "instancePrice": 0.063,
+            "vcpu": 1,
+            "memory": 2.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.325,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.163,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.082,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.293,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.147,
+            "vcpu": 2,
+            "memory": 4.0
+        }
+    },
+    "ca-central-1": {
+        "db.r3.2xlarge": {
+            "instancePrice": 1.28,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r3.large": {
+            "instancePrice": 0.32,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r3.4xlarge": {
+            "instancePrice": 2.56,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r3.xlarge": {
+            "instancePrice": 0.64,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r3.8xlarge": {
+            "instancePrice": 5.12,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.16xlarge": {
+            "instancePrice": 10.24,
+            "vcpu": 64,
+            "memory": 488.0
+        },
+        "db.r4.2xlarge": {
+            "instancePrice": 1.28,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r4.4xlarge": {
+            "instancePrice": 2.56,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r4.8xlarge": {
+            "instancePrice": 5.12,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.large": {
+            "instancePrice": 0.32,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r4.xlarge": {
+            "instancePrice": 0.64,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r5.12xlarge": {
+            "instancePrice": 9.984,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 13.312,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 19.968,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.664,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.328,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 6.656,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.416,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.832,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 8.936,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 11.915,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.49,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 2.978,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 5.957,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.372,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.745,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 9.984,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 13.312,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 19.968,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.664,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 26.624,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.328,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 6.656,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.416,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.832,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t2.medium": {
+            "instancePrice": 0.09,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t2.small": {
+            "instancePrice": 0.045,
+            "vcpu": 1,
+            "memory": 2.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.234,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.117,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.059,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.205,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.103,
+            "vcpu": 2,
+            "memory": 4.0
+        }
+    },
+    "eu-central-1": {
+        "db.r3.2xlarge": {
+            "instancePrice": 1.4,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r3.large": {
+            "instancePrice": 0.35,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r3.4xlarge": {
+            "instancePrice": 2.8,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r3.xlarge": {
+            "instancePrice": 0.7,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r3.8xlarge": {
+            "instancePrice": 5.6,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.16xlarge": {
+            "instancePrice": 11.2,
+            "vcpu": 64,
+            "memory": 488.0
+        },
+        "db.r4.2xlarge": {
+            "instancePrice": 1.4,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r4.4xlarge": {
+            "instancePrice": 2.8,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r4.8xlarge": {
+            "instancePrice": 5.6,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.large": {
+            "instancePrice": 0.35,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r4.xlarge": {
+            "instancePrice": 0.7,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r5.12xlarge": {
+            "instancePrice": 10.92,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 14.56,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 21.84,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.82,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.64,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 7.28,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.455,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.91,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 9.773,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 13.031,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.629,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 3.258,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 6.516,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.407,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.815,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 10.92,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 14.56,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 21.84,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.82,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 29.12,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.64,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 7.28,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.455,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.91,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t2.medium": {
+            "instancePrice": 0.096,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t2.small": {
+            "instancePrice": 0.048,
+            "vcpu": 1,
+            "memory": 2.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.25,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.125,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.062,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.221,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.111,
+            "vcpu": 2,
+            "memory": 4.0
+        }
+    },
+    "eu-west-1": {
+        "db.r3.2xlarge": {
+            "instancePrice": 1.28,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r3.large": {
+            "instancePrice": 0.32,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r3.4xlarge": {
+            "instancePrice": 2.56,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r3.xlarge": {
+            "instancePrice": 0.64,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r3.8xlarge": {
+            "instancePrice": 5.12,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.16xlarge": {
+            "instancePrice": 10.24,
+            "vcpu": 64,
+            "memory": 488.0
+        },
+        "db.r4.2xlarge": {
+            "instancePrice": 1.28,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r4.4xlarge": {
+            "instancePrice": 2.56,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r4.8xlarge": {
+            "instancePrice": 5.12,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.large": {
+            "instancePrice": 0.32,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r4.xlarge": {
+            "instancePrice": 0.64,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r5.12xlarge": {
+            "instancePrice": 9.984,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 13.312,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 19.968,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.664,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.328,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 6.656,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.416,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.832,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 8.936,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 11.915,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.49,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 2.978,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 5.957,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.372,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.745,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 9.984,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 13.312,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 19.968,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.664,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 26.624,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.328,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 6.656,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.416,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.832,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r7g.12xlarge": {
+            "instancePrice": 9.485,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r7g.16xlarge": {
+            "instancePrice": 12.647,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r7g.2xlarge": {
+            "instancePrice": 1.581,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r7g.4xlarge": {
+            "instancePrice": 3.162,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r7g.8xlarge": {
+            "instancePrice": 6.324,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r7g.large": {
+            "instancePrice": 0.395,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r7g.xlarge": {
+            "instancePrice": 0.79,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t2.medium": {
+            "instancePrice": 0.088,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t2.small": {
+            "instancePrice": 0.044,
+            "vcpu": 1,
+            "memory": 2.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.229,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.114,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.057,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.203,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.101,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.x2g.12xlarge": {
+            "instancePrice": 13.853,
+            "vcpu": 48,
+            "memory": 768.0
+        },
+        "db.x2g.16xlarge": {
+            "instancePrice": 18.47,
+            "vcpu": 64,
+            "memory": 1024.0
+        },
+        "db.x2g.2xlarge": {
+            "instancePrice": 2.309,
+            "vcpu": 8,
+            "memory": 128.0
+        },
+        "db.x2g.4xlarge": {
+            "instancePrice": 4.618,
+            "vcpu": 16,
+            "memory": 256.0
+        },
+        "db.x2g.8xlarge": {
+            "instancePrice": 9.235,
+            "vcpu": 32,
+            "memory": 512.0
+        },
+        "db.x2g.large": {
+            "instancePrice": 0.577,
+            "vcpu": 2,
+            "memory": 32.0
+        },
+        "db.x2g.xlarge": {
+            "instancePrice": 1.154,
+            "vcpu": 4,
+            "memory": 64.0
+        }
+    },
+    "eu-west-2": {
+        "db.r3.2xlarge": {
+            "instancePrice": 1.36,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r3.large": {
+            "instancePrice": 0.34,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r3.4xlarge": {
+            "instancePrice": 2.72,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r3.xlarge": {
+            "instancePrice": 0.68,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r3.8xlarge": {
+            "instancePrice": 5.44,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.16xlarge": {
+            "instancePrice": 10.88,
+            "vcpu": 64,
+            "memory": 488.0
+        },
+        "db.r4.2xlarge": {
+            "instancePrice": 1.36,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r4.4xlarge": {
+            "instancePrice": 2.72,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r4.8xlarge": {
+            "instancePrice": 5.44,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.large": {
+            "instancePrice": 0.34,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r4.xlarge": {
+            "instancePrice": 0.68,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r5.12xlarge": {
+            "instancePrice": 10.608,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 14.144,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 21.216,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.768,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.536,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 7.072,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.442,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.884,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 9.494,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 12.659,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.582,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 3.164,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 6.33,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.395,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.792,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 10.608,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 14.144,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 21.216,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.768,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 28.288,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.536,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 7.072,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.442,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.884,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t2.medium": {
+            "instancePrice": 0.093,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t2.small": {
+            "instancePrice": 0.047,
+            "vcpu": 1,
+            "memory": 2.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.242,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.121,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.061,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.213,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.107,
+            "vcpu": 2,
+            "memory": 4.0
+        }
+    },
+    "eu-south-1": {
+        "db.r5.12xlarge": {
+            "instancePrice": 10.483,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 13.978,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 20.966,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.747,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.494,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 6.989,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.437,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.874,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 9.36,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 12.48,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.56,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 3.12,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 6.24,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.39,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.78,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 10.483,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 13.978,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 20.966,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.747,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 27.955,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.494,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 6.989,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.437,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.874,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.239,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.12,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.06,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.212,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.105,
+            "vcpu": 2,
+            "memory": 4.0
+        }
+    },
+    "eu-west-3": {
+        "db.r4.16xlarge": {
+            "instancePrice": 10.75,
+            "vcpu": 64,
+            "memory": 488.0
+        },
+        "db.r4.2xlarge": {
+            "instancePrice": 1.34,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r4.4xlarge": {
+            "instancePrice": 2.69,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r4.8xlarge": {
+            "instancePrice": 5.38,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.large": {
+            "instancePrice": 0.34,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r4.xlarge": {
+            "instancePrice": 0.67,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r5.12xlarge": {
+            "instancePrice": 10.452,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 13.936,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 20.904,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.742,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.484,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 6.968,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.436,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.871,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 9.329,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 12.438,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.555,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 3.11,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 6.219,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.389,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.777,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 10.452,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 13.936,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 20.904,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.742,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 27.872,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.484,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 6.968,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.436,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.871,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t2.medium": {
+            "instancePrice": 0.092,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t2.small": {
+            "instancePrice": 0.046,
+            "vcpu": 1,
+            "memory": 2.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.239,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.12,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.06,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.211,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.105,
+            "vcpu": 2,
+            "memory": 4.0
+        }
+    },
+    "eu-south-2": {
+        "db.r5.12xlarge": {
+            "instancePrice": 9.984,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 13.312,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 19.968,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.664,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.328,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 6.656,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.416,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.832,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.229,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.114,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.057,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 8.923,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 11.898,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.487,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 2.974,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 5.949,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.372,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.744,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 9.984,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 13.312,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 19.968,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.664,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 26.624,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.328,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 6.656,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.416,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.832,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.203,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.101,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.x2g.12xlarge": {
+            "instancePrice": 13.853,
+            "vcpu": 48,
+            "memory": 768.0
+        },
+        "db.x2g.16xlarge": {
+            "instancePrice": 18.47,
+            "vcpu": 64,
+            "memory": 1024.0
+        },
+        "db.x2g.2xlarge": {
+            "instancePrice": 2.309,
+            "vcpu": 8,
+            "memory": 128.0
+        },
+        "db.x2g.4xlarge": {
+            "instancePrice": 4.618,
+            "vcpu": 16,
+            "memory": 256.0
+        },
+        "db.x2g.8xlarge": {
+            "instancePrice": 9.235,
+            "vcpu": 32,
+            "memory": 512.0
+        },
+        "db.x2g.large": {
+            "instancePrice": 0.577,
+            "vcpu": 2,
+            "memory": 32.0
+        },
+        "db.x2g.xlarge": {
+            "instancePrice": 1.154,
+            "vcpu": 4,
+            "memory": 64.0
+        }
+    },
+    "eu-north-1": {
+        "db.r5.12xlarge": {
+            "instancePrice": 9.36,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 12.48,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 18.72,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.56,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.12,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 6.24,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.39,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.78,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 8.362,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 11.149,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.394,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 2.787,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 5.574,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.348,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.697,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 9.36,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 12.48,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 18.72,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.56,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 24.96,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.12,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 6.24,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.39,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.78,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.218,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.109,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.055,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.192,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.096,
+            "vcpu": 2,
+            "memory": 4.0
+        }
+    },
+    "eu-central-2": {
+        "db.r5.12xlarge": {
+            "instancePrice": 12.012,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 16.016,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 24.024,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 2.002,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 4.004,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 8.008,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.501,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 1.001,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.274,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.138,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.069,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 10.742,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 14.323,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.79,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 3.58,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 7.162,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.447,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.896,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 12.012,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 16.016,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 24.024,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 2.002,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 32.032,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 4.004,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 8.008,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.501,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 1.001,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.243,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.122,
+            "vcpu": 2,
+            "memory": 4.0
+        }
+    },
+    "il-central-1": {
+        "db.r5.12xlarge": {
+            "instancePrice": 10.483,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 13.978,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 20.966,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.747,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.494,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 6.989,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.437,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.874,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 9.374,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 12.499,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.56,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 3.125,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 6.25,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.391,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.781,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.24,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.12,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.06,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.213,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.107,
+            "vcpu": 2,
+            "memory": 4.0
+        }
+    },
+    "me-south-1": {
+        "db.r5.12xlarge": {
+            "instancePrice": 10.982,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 14.643,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 21.965,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.83,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.661,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 7.322,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.458,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.915,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.252,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.126,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.062,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 9.829,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 13.105,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.638,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 3.276,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 6.553,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.41,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.819,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 10.982,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 14.643,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 21.965,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.83,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 29.286,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.661,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 7.322,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.458,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.915,
+            "vcpu": 4,
+            "memory": 32.0
+        }
+    },
+    "me-central-1": {
+        "db.r5.12xlarge": {
+            "instancePrice": 10.982,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 14.643,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 21.965,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 1.83,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 3.661,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 7.322,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.458,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 0.915,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.252,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.126,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.064,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 9.828,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 13.104,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 1.638,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 3.276,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 6.552,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.41,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 0.819,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.224,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.112,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 10.982,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 14.643,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 21.965,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 1.83,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 29.286,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 3.661,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 7.322,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.458,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 0.915,
+            "vcpu": 4,
+            "memory": 32.0
+        }
+    },
+    "sa-east-1": {
+        "db.r4.16xlarge": {
+            "instancePrice": 19.2,
+            "vcpu": 64,
+            "memory": 488.0
+        },
+        "db.r4.2xlarge": {
+            "instancePrice": 2.4,
+            "vcpu": 8,
+            "memory": 61.0
+        },
+        "db.r4.4xlarge": {
+            "instancePrice": 4.8,
+            "vcpu": 16,
+            "memory": 122.0
+        },
+        "db.r4.8xlarge": {
+            "instancePrice": 9.6,
+            "vcpu": 32,
+            "memory": 244.0
+        },
+        "db.r4.large": {
+            "instancePrice": 0.6,
+            "vcpu": 2,
+            "memory": 15.25
+        },
+        "db.r4.xlarge": {
+            "instancePrice": 1.2,
+            "vcpu": 4,
+            "memory": 30.5
+        },
+        "db.r5.12xlarge": {
+            "instancePrice": 18.72,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r5.16xlarge": {
+            "instancePrice": 24.96,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r5.24xlarge": {
+            "instancePrice": 37.44,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r5.2xlarge": {
+            "instancePrice": 3.12,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r5.4xlarge": {
+            "instancePrice": 6.24,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r5.8xlarge": {
+            "instancePrice": 12.48,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r5.large": {
+            "instancePrice": 0.78,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r5.xlarge": {
+            "instancePrice": 1.56,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6g.12xlarge": {
+            "instancePrice": 16.761,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6g.16xlarge": {
+            "instancePrice": 22.347,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6g.2xlarge": {
+            "instancePrice": 2.794,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6g.4xlarge": {
+            "instancePrice": 5.587,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6g.8xlarge": {
+            "instancePrice": 11.174,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6g.large": {
+            "instancePrice": 0.698,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6g.xlarge": {
+            "instancePrice": 1.396,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.r6i.12xlarge": {
+            "instancePrice": 18.72,
+            "vcpu": 48,
+            "memory": 384.0
+        },
+        "db.r6i.16xlarge": {
+            "instancePrice": 24.96,
+            "vcpu": 64,
+            "memory": 512.0
+        },
+        "db.r6i.24xlarge": {
+            "instancePrice": 37.44,
+            "vcpu": 96,
+            "memory": 768.0
+        },
+        "db.r6i.2xlarge": {
+            "instancePrice": 3.12,
+            "vcpu": 8,
+            "memory": 64.0
+        },
+        "db.r6i.32xlarge": {
+            "instancePrice": 49.92,
+            "vcpu": 128,
+            "memory": 1024.0
+        },
+        "db.r6i.4xlarge": {
+            "instancePrice": 6.24,
+            "vcpu": 16,
+            "memory": 128.0
+        },
+        "db.r6i.8xlarge": {
+            "instancePrice": 12.48,
+            "vcpu": 32,
+            "memory": 256.0
+        },
+        "db.r6i.large": {
+            "instancePrice": 0.78,
+            "vcpu": 2,
+            "memory": 16.0
+        },
+        "db.r6i.xlarge": {
+            "instancePrice": 1.56,
+            "vcpu": 4,
+            "memory": 32.0
+        },
+        "db.t3.large": {
+            "instancePrice": 0.437,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t3.medium": {
+            "instancePrice": 0.218,
+            "vcpu": 2,
+            "memory": 4.0
+        },
+        "db.t3.small": {
+            "instancePrice": 0.109,
+            "vcpu": 2,
+            "memory": 2.0
+        },
+        "db.t4g.large": {
+            "instancePrice": 0.398,
+            "vcpu": 2,
+            "memory": 8.0
+        },
+        "db.t4g.medium": {
+            "instancePrice": 0.199,
+            "vcpu": 2,
+            "memory": 4.0
+        }
+    }
+}

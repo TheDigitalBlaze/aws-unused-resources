@@ -1,0 +1,226 @@
+{
+    "db.x2g.16xlarge": {
+        "vcpu": 64,
+        "mem": 1024.0
+    },
+    "db.x2g.12xlarge": {
+        "vcpu": 48,
+        "mem": 768.0
+    },
+    "db.x2g.8xlarge": {
+        "vcpu": 32,
+        "mem": 512.0
+    },
+    "db.x2g.4xlarge": {
+        "vcpu": 16,
+        "mem": 256.0
+    },
+    "db.x2g.2xlarge": {
+        "vcpu": 8,
+        "mem": 128.0
+    },
+    "db.x2g.xlarge": {
+        "vcpu": 4,
+        "mem": 64.0
+    },
+    "db.x2g.large": {
+        "vcpu": 2,
+        "mem": 32.0
+    },
+    "db.r7g.16xlarge": {
+        "vcpu": 64,
+        "mem": 512.0
+    },
+    "db.r7g.12xlarge": {
+        "vcpu": 48,
+        "mem": 384.0
+    },
+    "db.r7g.8xlarge": {
+        "vcpu": 32,
+        "mem": 256.0
+    },
+    "db.r7g.4xlarge": {
+        "vcpu": 16,
+        "mem": 128.0
+    },
+    "db.r7g.2xlarge": {
+        "vcpu": 8,
+        "mem": 64.0
+    },
+    "db.r7g.xlarge": {
+        "vcpu": 4,
+        "mem": 32.0
+    },
+    "db.r7g.large": {
+        "vcpu": 2,
+        "mem": 16.0
+    },
+    "db.r6g.16xlarge": {
+        "vcpu": 64,
+        "mem": 512.0
+    },
+    "db.r6g.12xlarge": {
+        "vcpu": 48,
+        "mem": 384.0
+    },
+    "db.r6g.8xlarge": {
+        "vcpu": 32,
+        "mem": 256.0
+    },
+    "db.r6g.4xlarge": {
+        "vcpu": 16,
+        "mem": 128.0
+    },
+    "db.r6g.2xlarge": {
+        "vcpu": 8,
+        "mem": 64.0
+    },
+    "db.r6g.xlarge": {
+        "vcpu": 4,
+        "mem": 32.0
+    },
+    "db.r6g.large": {
+        "vcpu": 2,
+        "mem": 16.0
+    },
+    "db.r6i.32xlarge": {
+        "vcpu": 128,
+        "mem": 1024.0
+    },
+    "db.r6i.24xlarge": {
+        "vcpu": 96,
+        "mem": 768.0
+    },
+    "db.r6i.16xlarge": {
+        "vcpu": 64,
+        "mem": 512.0
+    },
+    "db.r6i.12xlarge": {
+        "vcpu": 48,
+        "mem": 384.0
+    },
+    "db.r6i.8xlarge": {
+        "vcpu": 32,
+        "mem": 256.0
+    },
+    "db.r6i.4xlarge": {
+        "vcpu": 16,
+        "mem": 128.0
+    },
+    "db.r6i.2xlarge": {
+        "vcpu": 8,
+        "mem": 64.0
+    },
+    "db.r6i.xlarge": {
+        "vcpu": 4,
+        "mem": 32.0
+    },
+    "db.r6i.large": {
+        "vcpu": 2,
+        "mem": 16.0
+    },
+    "db.r5.24xlarge": {
+        "vcpu": 96,
+        "mem": 768.0
+    },
+    "db.r5.16xlarge": {
+        "vcpu": 64,
+        "mem": 512.0
+    },
+    "db.r5.12xlarge": {
+        "vcpu": 48,
+        "mem": 384.0
+    },
+    "db.r5.8xlarge": {
+        "vcpu": 32,
+        "mem": 256.0
+    },
+    "db.r5.4xlarge": {
+        "vcpu": 16,
+        "mem": 128.0
+    },
+    "db.r5.2xlarge": {
+        "vcpu": 8,
+        "mem": 64.0
+    },
+    "db.r5.xlarge": {
+        "vcpu": 4,
+        "mem": 32.0
+    },
+    "db.r5.large": {
+        "vcpu": 2,
+        "mem": 16.0
+    },
+    "db.r4.16xlarge": {
+        "vcpu": 64,
+        "mem": 488.0
+    },
+    "db.r4.8xlarge": {
+        "vcpu": 32,
+        "mem": 244.0
+    },
+    "db.r4.4xlarge": {
+        "vcpu": 16,
+        "mem": 122.0
+    },
+    "db.r4.2xlarge": {
+        "vcpu": 8,
+        "mem": 61.0
+    },
+    "db.r4.xlarge": {
+        "vcpu": 4,
+        "mem": 30.5
+    },
+    "db.r4.large": {
+        "vcpu": 2,
+        "mem": 15.25
+    },
+    "db.r3.8xlarge": {
+        "vcpu": 32,
+        "mem": 244.0
+    },
+    "db.r3.4xlarge": {
+        "vcpu": 16,
+        "mem": 122.0
+    },
+    "db.r3.2xlarge": {
+        "vcpu": 8,
+        "mem": 61.0
+    },
+    "db.r3.xlarge": {
+        "vcpu": 4,
+        "mem": 30.5
+    },
+    "db.r3.large": {
+        "vcpu": 2,
+        "mem": 15.25
+    },
+    "db.t4g.large": {
+        "vcpu": 2,
+        "mem": 8.0
+    },
+    "db.t4g.medium": {
+        "vcpu": 2,
+        "mem": 4.0
+    },
+    "db.t3.large": {
+        "vcpu": 2,
+        "mem": 8.0
+    },
+    "db.t3.medium": {
+        "vcpu": 2,
+        "mem": 4.0
+    },
+    "db.t3.small": {
+        "vcpu": 2,
+        "mem": 2.0
+    },
+    "db.t2.medium": {
+        "vcpu": 2,
+        "mem": 4.0
+    },
+    "db.t2.small": {
+        "vcpu": 1,
+        "mem": 2.0
+    }
+}
