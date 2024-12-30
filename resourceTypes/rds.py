@@ -6,6 +6,48 @@ import boto3
 import numpy as np
 from .storage_volume import StorageVolume
 
+class RDSSnapshot:
+    def __init__(self, snapshot_id, rds_client):
+        self.snapshot_id = snapshot_id
+        self.rds = rds_client
+        self.get_snapshot_details()
+    
+    def get_snapshot_details(self):
+        snapshot = self.rds.describe_db_snapshots(DBSnapshotIdentifier=self.snapshot_id)['DBSnapshots'][0]
+        self.storage_size = snapshot['AllocatedStorage']
+        self.engine = snapshot['Engine']
+        self.creation_time = snapshot['SnapshotCreateTime']
+        self.status = snapshot['Status']
+        self.type = snapshot['SnapshotType']
+        self.db_instance_id = snapshot['DBInstanceIdentifier']
+
+    def is_unused(self, retention_days=30):
+        # Check if snapshot is older than retention period
+        age = datetime.datetime.now(datetime.timezone.utc) - self.creation_time
+        if age.days > retention_days:
+            # Check if this is the most recent snapshot for a deleted instance
+            try:
+                self.rds.describe_db_instances(DBInstanceIdentifier=self.db_instance_id)
+                # Instance exists, so this is just an old snapshot
+                return True
+            except self.rds.exceptions.DBInstanceNotFoundFault:
+                # Instance doesn't exist, check if this is the newest snapshot
+                snapshots = self.rds.describe_db_snapshots(DBInstanceIdentifier=self.db_instance_id)['DBSnapshots']
+                newest_snapshot = max(snapshots, key=lambda x: x['SnapshotCreateTime'])
+                return self.snapshot_id != newest_snapshot['DBSnapshotIdentifier']
+        return False
+
+    def get_savings(self):
+        # RDS snapshot pricing is typically $0.095 per GB-month for most regions
+        # This is a simplified calculation and should be adjusted based on region and storage type
+        snapshot_price = self.storage_size * 0.095
+        return {
+            "currentType": f"Snapshot-{self.type}",
+            "currentPrice": snapshot_price,
+            "newType": "None",
+            "newPrice": 0
+        }
+
 class DatabaseInstance:
     def __init__(self, identifier, region, cwClient, rdsClient):
         self.identifier = identifier
@@ -14,6 +56,7 @@ class DatabaseInstance:
         self.rds = rdsClient
         self.getInstanceSpecs()
         self.getPerformanceMetrics()
+        self.check_snapshots()
     
     # Fetch and set specifications of running datbabase instance
     def getInstanceSpecs(self):
@@ -163,3 +206,15 @@ class DatabaseInstance:
         if self.maxConn == 0:
             return True
         return False
+
+    def check_snapshots(self):
+        try:
+            snapshots = self.rds.describe_db_snapshots(DBInstanceIdentifier=self.identifier)['DBSnapshots']
+            self.unused_snapshots = []
+            for snapshot in snapshots:
+                snapshot_obj = RDSSnapshot(snapshot['DBSnapshotIdentifier'], self.rds)
+                if snapshot_obj.is_unused():
+                    self.unused_snapshots.append(snapshot_obj)
+        except Exception as error:
+            print(f"Error checking snapshots for {self.identifier}: {error}")
+            self.unused_snapshots = []

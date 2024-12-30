@@ -3,11 +3,14 @@
 This script will identify the following AWS resources that have not been used in the past 14 days and outputs a number of CSV files that contain references to the unused resources:
 * Elastic IPs
 * EBS volumes
+* RDS snapshots
 * EIPs
 * Load Balancers
 * EFS volumes
 * NAT Gateways
 * RDS instances
+* EC2 instances
+* DynamoDB tables (checks for unused tables and cost optimization opportunities)
 
 ## Installation instructions
 
